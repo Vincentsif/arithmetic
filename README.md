@@ -1,2 +1,2 @@
 # arithmetic
-study Algorithms 
+study Algorithms
